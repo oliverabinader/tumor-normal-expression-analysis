@@ -1,6 +1,3 @@
-# NOTE:
-# This log2 fold change calculation assumes expression values have already been log2 normalized.
-
 # --------------------------------------------
 # Calculate mean expression for each gene
 # --------------------------------------------
